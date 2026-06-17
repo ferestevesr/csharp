@@ -23,6 +23,7 @@ namespace CursoCSharp.EstruturaDeControle {
                 string selecaoFavorita = Console.ReadLine();
 
                 totalTorcedores++;
+                Console.WriteLine("Torcedor cadastrado: " + nomeTorcedor + " - Seleção favorita: " + selecaoFavorita);
             }
 
             Console.WriteLine($"\nTotal de torcedores cadastrados: {totalTorcedores}");

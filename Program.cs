@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
-
+using CursoCSharp.ClassesEMetodos;
 namespace CursoCSharp {
     class Program {
         static void Main(string[] args) {
@@ -28,7 +28,13 @@ namespace CursoCSharp {
                 {"Estrutura Repetição Ex2 (11/06) - Estrutura de Controle", Exercicio2Repeticao.Executar },
                 {"Estrutura Repetição Ex3 (11/06) - Estrutura de Controle", Exercicio3Repeticao.Executar },
                 {"Estrutura Repetição Ex4 (11/06) - Estrutura de Controle", Exercicio4Repeticao.Executar },
-                {"Estrutura Repetição Ex5 (11/06) - Estrutura de Controle", Exercicio5Repeticao.Executar }
+                {"Estrutura Repetição Ex5 (11/06) - Estrutura de Controle", Exercicio5Repeticao.Executar },
+                // classes e metodos
+                
+                {"Membros - Classes e Metodos", Membros.Executar },
+                {"Exericio1oe - Classes e Metodos", Exercicio1jogador.Executar },
+                {"Animais - Classes e Metodos", Animais2.Executar }
+
 
 
             });
