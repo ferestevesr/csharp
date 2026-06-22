@@ -14,6 +14,7 @@ namespace CursoCSharp {
                 {"Lendo dados - Fundamentos", LendoDados.Executar  },
                 { "Exercicio1 - Fundamentos", Exercicio1.Executar },
                 {"Operadores Aritméticos - fundamentos", OperadoresAritmeticos.Executar  },
+                // Estrutura de Controle //
                 {"Estrutura If - Estrutura de Controle", EstruturaIf.Executar },
                 {"Exercicio 1 e 2 If e Else - Estrutura de Controle", exercicio1.Executar },
                 {"Exercicio 3 If e Else - Estrutura de Controle", Exercicio3.Executar },
@@ -29,11 +30,14 @@ namespace CursoCSharp {
                 {"Estrutura Repetição Ex3 (11/06) - Estrutura de Controle", Exercicio3Repeticao.Executar },
                 {"Estrutura Repetição Ex4 (11/06) - Estrutura de Controle", Exercicio4Repeticao.Executar },
                 {"Estrutura Repetição Ex5 (11/06) - Estrutura de Controle", Exercicio5Repeticao.Executar },
-                // classes e metodos
-                
+                // classes e metodos //
                 {"Membros - Classes e Metodos", Membros.Executar },
                 {"Exericio1oe - Classes e Metodos", Exercicio1jogador.Executar },
-                {"Animais - Classes e Metodos", Animais2.Executar }
+                {"Animais - Classes e Metodos", Animais2.Executar },
+                {"Metodos com Retorno - Classes e Metodos", MetodosComRetorno.Executar },
+                {"Metodos com Retorno Ex 1 - Classes e Metodos",  MetodosComRetornoExercicio1.Executar },
+                {"Calcular descointo Ex 1 - Classes e Metodos", CalcularDesconto.Executar },
+                {"Exercio Seleção Copa do Mundo", ExercicioSelecaoCopa.Executar }
 
 
 
