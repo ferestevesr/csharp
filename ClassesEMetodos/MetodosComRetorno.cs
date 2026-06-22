@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp.ClassesEMetodos {
 
-    class Calculadora {
+    class CalculadoraComum {
         public int Somar(int a, int b) {
             return a + b;
         }
@@ -19,10 +19,9 @@ namespace CursoCSharp.ClassesEMetodos {
     }
         internal class MetodosComRetorno {
         public static void Executar() {
-                var calculadora = new Calculadora();
+                var calculadora = new CalculadoraComum();
                 var resultado = calculadora.Somar(10, 15);
                 Console.WriteLine(resultado);
-
 
             }
         }

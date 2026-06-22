@@ -37,7 +37,9 @@ namespace CursoCSharp {
                 {"Metodos com Retorno - Classes e Metodos", MetodosComRetorno.Executar },
                 {"Metodos com Retorno Ex 1 - Classes e Metodos",  MetodosComRetornoExercicio1.Executar },
                 {"Calcular descointo Ex 1 - Classes e Metodos", CalcularDesconto.Executar },
-                {"Exercio Seleção Copa do Mundo", ExercicioSelecaoCopa.Executar }
+                {"Exercio Seleção Copa do Mundo", ExercicioSelecaoCopa.Executar },
+                {"Oficina Mecanica - Classes e metodos", OficinaMecanica.Executar },
+                {"Exercicio Loja Celular - Classes e Métodos", LojaCelular.Executar  },
 
 
 
